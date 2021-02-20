@@ -1,0 +1,17 @@
+{
+  "name": "nim-game",
+  "version": "1.0.0",
+  "description": "Implementation of the Nim game",
+  "main": "build/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Emrio <emrio@emrio.fr> (emrio.fr)",
+  "license": "MIT",
+  "dependencies": {
+    "terminal-kit": "^1.49.2"
+  },
+  "devDependencies": {
+    "@types/terminal-kit": "^1.28.2"
+  }
+}
